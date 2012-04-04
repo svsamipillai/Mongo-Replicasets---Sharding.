@@ -1,0 +1,1 @@
+mongod.exe -f C:\mongo\conf\sharding\config03.conf

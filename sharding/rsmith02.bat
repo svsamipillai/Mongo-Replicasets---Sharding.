@@ -1,0 +1,1 @@
+mongod.exe -f C:\mongo\conf\sharding\rsmith02.conf
